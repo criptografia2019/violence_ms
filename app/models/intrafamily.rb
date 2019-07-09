@@ -1,0 +1,3 @@
+class Intrafamily < ApplicationRecord
+
+end
