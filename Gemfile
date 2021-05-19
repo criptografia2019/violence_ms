@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 5.1.5'
 gem 'mysql2', '~> 0.3.18'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 gem 'ffaker'
 gem 'faker', '~> 1.8', '>= 1.8.7'
 gem 'tzinfo-data'
